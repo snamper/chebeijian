@@ -31,7 +31,7 @@ global.domain = domain
 import iconUrl from './js/domain.js'
 global.iconUrl = iconUrl
 
-import 'vant/lib/vant-css/index.css'
+import 'vant/lib/index.css'
 
 import {
   Row,
